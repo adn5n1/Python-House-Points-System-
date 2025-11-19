@@ -1,3 +1,5 @@
+Download zip folder and extract it to view the files.
+
 🏆 House Points System (Python + guizero)
 
 A House Points System developed for my BTEC Level 3 IT Unit 4 Programming Project.
